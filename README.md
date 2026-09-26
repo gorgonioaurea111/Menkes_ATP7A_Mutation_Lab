@@ -91,32 +91,3 @@ disease-causing ATP7A variant.
 
 Its functional effects have not been experimentally established
 in this laboratory exercise.
-
-## VII. Repository Organization
-
-The repository follows the organization required in Part XIV
-of the laboratory instructions.
-
-```text
-Menkes_ATP7A_Mutation_Lab/
-│
-├── README.md
-│
-├── 01_reference/
-│   ├── WT_CDS.fasta
-│   └── WT_protein.fasta
-│
-├── 02_documented_mutation/
-│   ├── mutant_CDS.fasta
-│   └── mutant_protein.fasta
-│
-├── 03_artificial_mutation/
-│   ├── artificial_mutant_CDS.fasta
-│   └── artificial_mutant_protein.fasta
-│
-├── 04_results/
-│   ├── WT_vs_mutant_alignment.txt
-│   └── results_summary.md
-│
-└── 05_report/
-    └── final_report.md
